@@ -1,28 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"VUSharp Spectate System Listing",
+    "id":"com.vincil.vusharp-spectate-system-listing",
+    "url":"https://Vincil-VR.github.io/VUSharp-Spectating-System-Listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email": "vincilvrdev@gmail.com",
+        "name":"Vincil",
+        "url":"https://github.com/Vincil-VR"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"VCC listing for VUSharp Spectate System",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Vincil-VR/VUSharp-Spectate-System",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "Vincil-VR/VUSharp-Spectate-System"
     ],
     "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
     ]
 }
